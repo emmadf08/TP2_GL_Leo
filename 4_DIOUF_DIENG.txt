@@ -1,1 +1,2 @@
 Leo Diouf Saliou Dieng
+Lorsqu'on navigue sur la branche master on ne voit apparaitre que les fichiers qui sont dans ce dossier et donc puisque le dossier texte est commit dans "mon_dossier", il n'apparait pas. 
